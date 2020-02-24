@@ -1,0 +1,21 @@
+/* selected tag{
+  property: value;
+} */
+
+
+h1{
+  color: blue;
+}
+
+li{
+  color: rgb(255, 128, 191); /* Red - Green - Blue */
+}
+
+p{
+  color: #006699; /* hexcode color*/
+}
+
+h4{
+  color: rgba(0, 0, 153, 0.6); /* Red - Green - Blue - Alfa */
+  /* a for Alfa. value between 0(transparent) - 1(opeque).  */
+}

@@ -1,0 +1,24 @@
+/* selected tag{
+  property: value;
+} */
+
+body{
+  /* background-color: grey; */
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhBn7KGZF3_hg-iViNKogTeZG-3rC75CI3gsgvfZT9LXnYG8nX);
+  /* background-repeat: no-repeat; */
+}
+
+div{
+  background: white;
+  border-color: blue;
+  border-width: 5px;
+  border-style: dotted;
+}
+
+p{
+  color:yellowgreen;
+}
+
+span{
+  color: black;
+}

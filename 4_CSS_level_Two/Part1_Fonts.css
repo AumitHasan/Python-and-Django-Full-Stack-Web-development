@@ -1,0 +1,15 @@
+
+h1{
+  font-family: Arial;
+  text-align: center;
+}
+
+p {
+  font-family: 'AlexBrushRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 1em = 16px
+2em = 32px */
+

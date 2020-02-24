@@ -1,0 +1,49 @@
+/* Id's should be unique but Class can be used at multiple place  */
+/* Hash for ID | Dot for Class | only Name for Tag  */
+
+/* https://www.w3schools.com/cssref/css_selectors.asp */
+
+div{ /* Element Selector */ 
+  color: red;
+}
+.firstDiv{
+  color: blue;
+}
+.secondDiv{ /* Class Selector */ 
+  color: aqua;
+}
+#singledout{ /* ID Selector */
+  color: green;
+  text-decoration: line-through;
+}
+
+
+/* ---------------------- CSS Selector  ---------------------*/
+/* SELECTORS are patterns used to select the element(s) you want to style. */
+
+h3 + ul{ /* all UL immedietly after H3 */ /* also known as JASON SIBLINGS */
+  border: 5px dotted purple;
+}
+
+li a{ /* all ANCOR inside LIST */
+  color: red;
+}
+
+/* all ANCOR inside LIST with Attribute HREF="nw" */ /* [Attribute] */
+li a[href="https://www.newyorker.com/"]{
+  color: blue;
+  border: 3px orchid dashed;
+}
+
+/* all LIST with ID="few" inside UNORDER_LIST */
+ul li[id="few"]{
+  color: teal;
+}
+
+
+
+/* Asterik select all HTML elements  
+*{
+  color: black;
+}
+*/

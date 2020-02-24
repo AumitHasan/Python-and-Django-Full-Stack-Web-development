@@ -1,0 +1,7 @@
+
+Specificity:
+      https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+      https://designshack.net/articles/css/what-the-heck-is-css-specificity/
+    
+Visited Selector
+      https://www.w3schools.com/cssref/sel_visited.asp
